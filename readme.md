@@ -1,0 +1,1 @@
+takes a sentence as input, but if it contains any numbers, they will be stripped out, leaving only letters
